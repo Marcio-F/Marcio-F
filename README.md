@@ -7,9 +7,12 @@
   - 📷 @marfilho_
   - 🐳 @FilhoMarcio_
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-rust-68.vercel.app/api?username=Marcio-F&count_private=true&show_icons=true&theme=transparent)](https://github-readme-stats-three-rust-68.vercel.app/)
+##
 
-[![Top Langs](https://github-readme-stats-three-rust-68.vercel.app/api/top-langs/?username=Marcio-F&layout=compact&theme=transparent&exclude_repo=Projeto-2-SO2-SimpleOS&langs_count=6)](https://github-readme-stats-three-rust-68.vercel.app/)
+<div style="display: inline_block" align ="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-F&count_private=true&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-F&layout=compact&theme=transparent&exclude_repo=Projeto-2-SO2-SimpleOS&langs_count=6" />
+</div>
 
 <!---
 Marcio-F/Marcio-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
