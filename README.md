@@ -9,9 +9,10 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-rust-68.vercel.app/api?username=Marcio-F&count_private=true&show_icons=true&theme=transparent)](https://github-readme-stats-three-rust-68.vercel.app/)
-
-[![Top Langs](https://github-readme-stats-three-rust-68.vercel.app/api/top-langs/?username=Marcio-F&layout=compact&theme=transparent&exclude_repo=Projeto-2-SO2-SimpleOS&langs_count=6)](https://github-readme-stats-three-rust-68.vercel.app/)
+<div align="center" gap=100px>
+  <img height="180em" style="margin: 1000px" src="https://github-readme-stats-gamma-eight-63.vercel.app/api?username=Marcio-F&show_icons=true&theme=codeSTACKr" />
+  <img height="180em" src="https://github-readme-stats-gamma-eight-63.vercel.app//api/top-langs/?username=Marcio-F&layout=compact&theme=codeSTACKr&exclude_repo=Projeto-2-SO2-SimpleOS" />
+</div>
 
 <!---
 Marcio-F/Marcio-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
